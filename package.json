@@ -1,0 +1,1 @@
+{"name":"@delegatelab/frontend","version":"0.1.0","type":"module","private":true,"license":"MIT","engines":{"node":">=24"},"scripts":{"start":"node --env-file-if-exists=.env server.mjs","dev":"node dev.mjs","test":"node --test test.mjs"}}
